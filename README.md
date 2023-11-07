@@ -4,6 +4,9 @@ This project is a simple yet dynamic web application that generates random quote
 Technologies Used:
 
 HTML: Structure and layout of the web page.
+
 CSS: Styling and layout enhancements.
+
 JavaScript: Logic to fetch and display random quotes.
+
 External API: Integration with an external API to retrieve quote data.
